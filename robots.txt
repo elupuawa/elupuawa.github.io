@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elupuawa.github.io/Rkh/sitemap_index.txt
+Sitemap: https://elupuawa.github.io/Sib/sitemap_index.txt
+Sitemap: https://elupuawa.github.io/Vla/sitemap_index.txt
+Sitemap: https://elupuawa.github.io/ifa/sitemap_index.txt
